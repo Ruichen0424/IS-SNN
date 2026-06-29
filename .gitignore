@@ -1,3 +1,4 @@
 *.pth.tar
 .vscode
 __pycache__
+.gitignore
