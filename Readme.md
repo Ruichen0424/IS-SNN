@@ -87,13 +87,13 @@ Here is the performance summary of **IS-SNN** across various standard datasets a
   </thead>
   <tbody>
     <tr align="center">
-      <td rowspan="1"><b>ImageNet</b></td>
+      <td rowspan="1" valign="middle"><b>ImageNet</b></td>
       <td>SEW-ResNet-34</td>
       <td>4</td>
       <td><b>68.05</b></td>
     </tr>
     <tr align="center">
-      <td rowspan="2"><b>CIFAR-10</b></td>
+      <td rowspan="2" valign="middle"><b>CIFAR-10</b></td>
       <td>VGG-11</td>
       <td>4</td>
       <td><b>95.06</b></td>
@@ -104,7 +104,7 @@ Here is the performance summary of **IS-SNN** across various standard datasets a
       <td><b>96.12 / 96.02 / 95.65</b></td>
     </tr>
     <tr align="center">
-      <td rowspan="2"><b>CIFAR-100</b></td>
+      <td rowspan="2" valign="middle"><b>CIFAR-100</b></td>
       <td>VGG-11</td>
       <td>4</td>
       <td><b>77.13</b></td>
@@ -115,7 +115,7 @@ Here is the performance summary of **IS-SNN** across various standard datasets a
       <td><b>80.72 / 79.97 / 79.03</b></td>
     </tr>
     <tr align="center">
-      <td rowspan="1"><b>DVS-Gesture</b></td>
+      <td rowspan="1" valign="middle"><b>DVS-Gesture</b></td>
       <td>SEW-7B-Net</td>
       <td>16</td>
       <td><b>96.88</b></td>
