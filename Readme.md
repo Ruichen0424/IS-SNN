@@ -6,7 +6,7 @@ Intrinsically Stable Spiking Neural Networks: Overcoming the Performance Barrier
 <!-- Badges -->
 [![Paper](https://img.shields.io/badge/Arxiv-2606.31695-B31B1B.svg?style=flat-square)](https://arxiv.org/abs/2606.31695)
 [![ECCV 2026](https://img.shields.io/badge/ECCV%202026-Poster-4b44ce.svg?style=flat-square)](https://www.ecva.net/papers.php)
-![hits](https://hits.sh/github.com/ruichen0424/IS-SNN.svg?style=flat&label=hits&color=4f46e5&labelColor=334155&v=1)
+![hits](https://gitviews.com/repo/ruichen0424/IS-SNN.svg?style=flat&label=hits&color=%234f46e5&label-color=%23334155)
 <!-- [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Paper-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/scholar?cluster=1814482600796011970) -->
 
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Paper-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/papers/2606.31695)
