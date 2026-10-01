@@ -5,7 +5,7 @@ Intrinsically Stable Spiking Neural Networks: Overcoming the Performance Barrier
 
 <!-- Badges -->
 [![Paper](https://img.shields.io/badge/Arxiv-2606.31695-B31B1B.svg?style=flat-square)](https://arxiv.org/abs/2606.31695)
-[![ECCV 2026](https://img.shields.io/badge/ECCV%202026-Poster-4b44ce.svg?style=flat-square)](https://www.ecva.net/papers.php)
+[![ECCV 2026](https://img.shields.io/badge/ECCV%202026-Poster-4b44ce.svg?style=flat-square)](https://link.springer.com/chapter/10.1007/978-3-032-37010-5_28)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Paper-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/scholar?cluster=18039869873167931069)
 
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Paper-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/papers/2606.31695)
@@ -16,6 +16,8 @@ Intrinsically Stable Spiking Neural Networks: Overcoming the Performance Barrier
 ## 🚀 Introduction
 
 This is the official PyTorch implementation of the paper **Intrinsically Stable Spiking Neural Networks: Overcoming the Performance Barrier in the Absence of Batch Normalization**, accepted at **ECCV 2026**.
+
+![poster](./assets/IS-SNN.png)
 
 ## ✨ Key Highlights
 
