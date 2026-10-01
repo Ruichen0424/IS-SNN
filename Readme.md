@@ -135,10 +135,12 @@ We provide pre-trained models below.
 If you find our code useful for your research, or use the IS-SNN architecture, please consider citing:
 
 ```bibtex
-@article{ma2026intrinsically,
+@inproceedings{ma2026intrinsically,
   title={Intrinsically Stable Spiking Neural Networks: Overcoming the Performance Barrier in the Absence of Batch Normalization},
   author={Ma, Ruichen and Zhang, Xiaoyang and Bai, Jian and Qiao, Guanchao and Meng, Liwei and Ning, Ning and Liu, Yang and Hu, Shaogang},
-  journal={arXiv preprint arXiv:2606.31695},
-  year={2026}
+  booktitle={European Conference on Computer Vision},
+  pages={507--524},
+  year={2026},
+  organization={Springer}
 }
 ```
